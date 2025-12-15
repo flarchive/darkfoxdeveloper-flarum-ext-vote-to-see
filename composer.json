@@ -1,0 +1,18 @@
+{
+  "name": "darkfoxdeveloper/flarum-ext-vote-to-see",
+  "type": "flarum-extension",
+  "license": "MIT",
+  "require": {
+    "flarum/core": "^1.0"
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Vote to see",
+      "icon": {
+        "name": "fas fa-lock",
+        "backgroundColor": "#e53e3e",
+        "color": "#fff"
+      }
+    }
+  }
+}
