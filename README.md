@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of darkfoxdeveloper/flarum-ext-vote-to-see.** Not for installation: use [Packagist](https://packagist.org/packages/darkfoxdeveloper/flarum-ext-vote-to-see) or the [upstream repository](https://github.com/darkfoxdeveloper/flarum-ext-vote-to-see).
 
-**0** versions archived · Latest: [`v1.0.0.0`](https://github.com/flarchive/darkfoxdeveloper-flarum-ext-vote-to-see/tree/archive/v1.0.0.0) · License: `MIT` · Flarum: `^1.0`
+**1** versions archived · Latest: [`v1.0.0.0`](https://github.com/flarchive/darkfoxdeveloper-flarum-ext-vote-to-see/tree/archive/v1.0.0.0) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0.0` | 2025-12-15 | `^1.0` | [Browse](https://github.com/flarchive/darkfoxdeveloper-flarum-ext-vote-to-see/tree/archive/v1.0.0.0) |
 
 Catalog entry: [packages/darkfoxdeveloper-flarum-ext-vote-to-see.json](https://github.com/flarchive/archive-index/blob/main/packages/darkfoxdeveloper-flarum-ext-vote-to-see.json)
 
